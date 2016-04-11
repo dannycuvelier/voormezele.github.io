@@ -4,9 +4,8 @@ email: cuvelierklaas@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Informatie over Voormezele.be
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://voormezele.github.io" # the base hostname & protocol for your site
+
 
 # Build settings
 markdown: kramdown
