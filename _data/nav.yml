@@ -1,0 +1,25 @@
+- title: "Start"
+  href: "/"
+
+- title: "Algemeen"
+  subcategories:
+    - subtitle: "Kalender"
+      subhref: "/algemeen/kalender.html"
+    - subtitle: "Fotos"
+      subhref: "/algemeen/fotos.html"
+
+- title: "Informatie"
+  subcategories:
+    - subtitle: "Geschiedenis"
+      subhref: "/info/geschiedenis.html"
+    - subtitle: "Ligging"
+      subhref: "/info/ligging.html"
+    - subtitle: "H. Bloedprocessie"
+      subhref: "/info/hbloedprocessie.html"
+    - subtitle: "Kerststallententoonstelling"
+      subhref: "/info/kerststallententoonstelling.html"
+
+- title: "Extra"
+  subcategories:
+    - subtitle: "Contact"
+      subhref: "/extra/contact.html"
