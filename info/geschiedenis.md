@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Geschiedenis
+layout: page
 ---
 
 Reeds in 774 was de parochie vermeld onder de 800 parochies van het Bisdom Terwaan (Terenburg). 

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Kerststallententoonstelling
+layout: page
 ---
 
 Kerststallen tentoonstelling

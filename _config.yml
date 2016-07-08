@@ -1,11 +1,16 @@
-# Site settings
+---
 title: Voormezele
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: cuvelierklaas@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: |
   Informatie over Voormezele.be
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://voormezele.github.io" # the base hostname & protocol for your site
-
-
-# Build settings
+baseurl: ''
+url: http://voormezele.github.io
 markdown: kramdown
