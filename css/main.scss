@@ -3,18 +3,22 @@
 
 @charset "utf-8";
 
+@import "https://fonts.googleapis.com/css?family=Roboto+Slab:400,600";
+@import "https://fonts.googleapis.com/css?family=Roboto:400,600";
 
 
 // Our variables
-$base-font-family: Helvetica, sans-serif;
+$base-font-family: Roboto, sans-serif;
 $base-font-size:   16px;
+$secondary-font-family: Roboto Slab, serif;
+
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #eee;
+$text-color:       #242424;
+$background-color: #fff;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
@@ -28,7 +32,6 @@ $green: #33ce74;
 $dark-green: #27ae60;
 $blue: #3498db;
 $dark-blue: #2980b9;
-
 
 
 // Using media queries with like this:
@@ -48,7 +51,8 @@ $dark-blue: #2980b9;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+    "base",
+    "layout",
+    "syntax-highlighting",
+    "landing"
 ;

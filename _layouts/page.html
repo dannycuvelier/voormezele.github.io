@@ -1,20 +1,29 @@
 ---
 layout: default
 ---
+<div
+    class="landing-header"
+    {% if page.subtext != null %}
+      style="background-image: url(/public/img/{{ page.hero }})"
+    {% else %}
+    style="background-image: url(/public/img/landing.jpg)"
+    {% endif %}
+></div>
 
-<div class="post">
+{% include menu.html %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+<div class="content-wrapper landing-page">
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <div class="intro">
+    <h1>{{ page.title }}</h1>
+    {% if page.subtext != null %}
+      {{ page.subtext }}
+    {% endif %}
+  </div>
 
-  <p>
-    Aanpassingen of aanvullingen voor deze pagina?
-    Kijk bij <a href="">site info</a> om
-  </p>
+  {{ content }}
 
 </div>
+
+
+{% include footer.html %}

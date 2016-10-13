@@ -1,15 +1,23 @@
 ---
-layout: default
+layout: page
+title: Voormezele.be
+hero: landing.jpg
+subtext: Een verborgen parel van de Westhoek en een dorp dat veel te bieden heeft.
 ---
 
-<div class="home">
 
-  <h1 class="page-heading">Welkom</h1>
+<div class="blocks">
+    {% for nav in site.data.nav %}
+    <a class="block" href="{{ site.url }}{{ nav.href }}">
+        <div class="title">{{ nav.title }}</div>
+        <div class="image" style="background-image: url({{ nav.image }})"></div>
+        <p class="description">{{ nav.description }}</p>
+    </a>
+    {% endfor %}
 
-  <p>Welkom op de website van Voormezele. Op deze site vind je allerlei informatie over
-    Voormezele (H. Bloedprocessie, geschiedenis, nieuws,...).</p>
 
-  <h1 class="post-title">Aankondigingen</h1>
-  <p>Bloedprocessie ... lees meer</p>
-
+    {% assign itemsPerRow = 3 %}
+    {% assign remainder = site.data.nav.size | modulo:itemsPerRow %}
+    {% assign extra = itemsPerRow | minus:remainder %}
+    {% for i in (1..extra) %}<div class="block"></div>{% endfor %}
 </div>
