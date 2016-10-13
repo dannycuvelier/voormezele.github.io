@@ -6,17 +6,17 @@ subtext: Een verborgen parel van de Westhoek en een dorp dat veel te bieden heef
 ---
 
 <div class="blocks">
-    {% for nav in site.data.nav %}
-    <a class="block" href="{{ site.url }}{{ nav.href }}">
-        <div class="title">{{ nav.title }}</div>
-        <div class="image" style="background-image: url({{ nav.image }})"></div>
-        <p class="description">{{ nav.description }}</p>
+    {% for block in site.data.landing %}
+    <a class="block" href="{{ site.url }}{{ block.href }}">
+        <div class="title">{{ block.title }}</div>
+        <div class="image" style="background-image: url({{ block.image }})"></div>
+        <p class="description">{{ block.description }}</p>
     </a>
     {% endfor %}
 
 
     {% assign itemsPerRow = 3 %}
-    {% assign remainder = site.data.nav.size | modulo:itemsPerRow %}
+    {% assign remainder = site.data.block.size | modulo:itemsPerRow %}
     {% assign extra = itemsPerRow | minus:remainder %}
     {% for i in (1..extra) %}<div class="block"></div>{% endfor %}
 </div>
