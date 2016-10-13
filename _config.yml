@@ -9,8 +9,9 @@ collections:
     title: Uploads
     output: true
 email: cuvelierklaas@gmail.com
-description: |
-  Informatie over Voormezele.be
+description: 'Informatie over Voormezele.be
+
+'
 baseurl: ''
 url: http://voormezele.github.io
 markdown: kramdown
