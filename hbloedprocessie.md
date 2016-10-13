@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Heilige Bloedprocessie
+layout: page
 ---
 
 ## H. BLOEDRELIKWIE
