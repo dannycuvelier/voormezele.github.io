@@ -1,7 +1,7 @@
-- title: Over Voormezele
-  href: /over-voormezele.html
-  image: /public/img/kerk.jpg
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam efficitur
+#- title: Over Voormezele
+#  href: /over-voormezele.html
+#  image: /public/img/kerk.jpg
+#  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam efficitur
 
 - title: Geschiedenis
   href: /geschiedenis.html
