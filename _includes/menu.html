@@ -1,5 +1,8 @@
 <div class="site-nav">
     <ul class="navigation content-wrapper">
+        <li>
+            <a href="{{ site.url }}">Voormezele</a>
+        </li>
         {% for nav in site.data.nav %}
             {% if nav.title == page.title %}
                 <li class="active">
