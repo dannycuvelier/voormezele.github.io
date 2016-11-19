@@ -96,16 +96,14 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $blue;
-    text-decoration: none;
+    &, &:visited {
+        color: $text-color;
+        text-decoration: none;
+        border-bottom: 1px dotted $brand-color;
+    }
 
-    //&:visited {
-    //    color: darken($blue, 15%);
-    //}
-
-    &:hover, &:active {
-        color: $dark-blue;
-        text-decoration: underline;
+    &:hover, &:active, &:focus {
+        border-bottom: 1px solid $brand-color;
     }
 }
 

@@ -1,0 +1,20 @@
+{
+  "apiKey": "AIzaSyAJHkb03qEIaFGMFBmuUkApC4KLRbqfPYQ",
+  "locations": [
+    {
+      "id": "elzenwalle-kasteel",
+      "title": "Elzenwalle Kasteel",
+      "latlng": []
+    },
+    {
+      "titidle": "oc-kasteelwal",
+      "title": "OC Kasteelwal",
+      "latlng": []
+    },
+    {
+      "id": "olv-kerk",
+      "title": "OLV Kerk",
+      "latlng": []
+    }
+  ]
+}

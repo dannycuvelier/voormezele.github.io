@@ -19,7 +19,7 @@ $spacing-unit:     30px;
 
 $text-color:       #242424;
 $background-color: #fff;
-$brand-color:      #2a7ae2;
+$brand-color:      #CE1113;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -27,11 +27,6 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
-$green: #33ce74;
-$dark-green: #27ae60;
-$blue: #3498db;
-$dark-blue: #2980b9;
 
 
 // Using media queries with like this:
@@ -46,6 +41,7 @@ $dark-blue: #2980b9;
         @content;
     }
 }
+
 
 
 
