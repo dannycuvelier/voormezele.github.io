@@ -2,6 +2,14 @@
     text-align: center;
 }
 
+.announcements {
+    margin: 75px 0 150px 0;
+
+    .announcement:not(:last-child) {
+        margin-bottom: 20px;
+    }
+}
+
 .blocks {
     display: flex;
     width: 100%;

@@ -5,6 +5,17 @@ hero: landing.jpg
 subtext: Een verborgen parel van de Westhoek en een dorp dat veel te bieden heeft.
 ---
 
+{% if site.data.announcements | size > 0 %}
+<div class="announcements">
+    {% for announcement in site.data.announcements %}
+    <div class="announcement">
+        <h4><a href="{{ site.url }}{{ announcement.link }}">{{ announcement.title }}</a></h4>
+        <p>{{ announcement.description }}</p>
+    </div>
+    {% endfor %}
+</div>
+{% endif %}
+
 <div class="blocks">
     {% for block in site.data.landing %}
     <a class="block" href="{{ site.url }}{{ block.href }}">
