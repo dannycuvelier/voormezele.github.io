@@ -2,19 +2,31 @@
   "apiKey": "AIzaSyAJHkb03qEIaFGMFBmuUkApC4KLRbqfPYQ",
   "locations": [
     {
-      "id": "elzenwalle-kasteel",
-      "title": "Elzenwalle Kasteel",
-      "latlng": []
-    },
-    {
-      "titidle": "oc-kasteelwal",
-      "title": "OC Kasteelwal",
-      "latlng": []
-    },
-    {
       "id": "olv-kerk",
       "title": "OLV Kerk",
-      "latlng": []
+      "latlng": {
+        "lat": 50.8167432,
+        "lng": 2.8756211
+      },
+      "description": "De Onze Lieve Vrouw Kerk"
+    },
+    {
+      "id": "elzenwalle-kasteel",
+      "title": "Elzenwalle Kasteel",
+      "latlng": {
+        "lat": 50.8167454,
+        "lng": 2.8604468
+      },
+      "description": ""
+    },
+    {
+      "id": "oc-kasteelwal",
+      "title": "OC Kasteelwal",
+      "latlng": {
+        "lat": 50.8150488,
+        "lng": 2.8761744
+      },
+      "description": "Ontmoetingscentrum Kasteelwal"
     }
   ]
 }
