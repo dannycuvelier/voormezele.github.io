@@ -63,3 +63,21 @@
         }
     }
 }
+
+
+@include media-query(720px) {
+    .blocks {
+        .block {
+            width: 46%;
+        }
+    }
+}
+
+
+@include media-query(512px) {
+    .blocks {
+        .block {
+            width: 100%;
+        }
+    }
+}
