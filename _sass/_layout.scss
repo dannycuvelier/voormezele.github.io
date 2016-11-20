@@ -122,9 +122,27 @@
 
 @include media-query(720px) {
 
+    h1 {
+        font-size: 22px;
+    }
+
+    h2 {
+        font-size: 17px;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    .content-wrapper {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
     .site-nav {
         .home {
             float: none;
+            margin-left: 30px;
             font-size: 18px;
         }
 
@@ -135,8 +153,11 @@
         .navigation {
             display: none;
             float: none;
-            background: rgba(255, 255, 255, 0.85);
+            background: rgba(255, 255, 255, 0.95);
             margin: 13px -50px 0; // 13 = 10 + 3px border
+
+            border-bottom: 1px solid $brand-color;
+
 
             &.nav-open {
                 display: block;
@@ -144,12 +165,12 @@
 
             li {
                 display: block;
-                margin: 0 50px;
+                margin: 0;
             }
 
             a {
                 display: block;
-                padding: 10px 0;
+                padding: 10px 50px;
             }
         }
     }
