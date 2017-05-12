@@ -1,5 +1,5 @@
 ---
-title: Heilige Bloedprocessie
+title: Heilig Bloedprocessie
 layout: page
 ---
 
@@ -25,7 +25,7 @@ Uit de hele streek, zelfs Frans-Vlaanderen, kwamen heel wat mensen naar Voormeze
 wonen. De noveen begint nu op de zaterdag voor Pinksteren en wordt afgesloten op de zondag na Pinksteren: H.
 Drievuldigheidszondag met de H. Bloedprocessie.
 
-### De Heilige Bloedprocessie
+### De Heilig Bloedprocessie
 
 Een echte sfeer en activiteit is er gegroeid rond deze topprestatie voor een dorp van een 1000-tal inwoners.
 In de processie figureren zowaar 650 deelnemers. Zij zorgen zowel voor een historiebeeld van hun dorp als voor een
