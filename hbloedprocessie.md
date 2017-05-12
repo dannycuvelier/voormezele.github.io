@@ -3,6 +3,11 @@ title: Heilig Bloedprocessie
 layout: page
 ---
 
+## H. BLOEDPORECESSIE 2017
+
+De Heilig Bloedprocessie van 2017 gaat door op 11 juni.
+Meer informatie over deze editie is beschikbaar op [H. Bloedprocessie 2017](./hbloedprocessie-2017.html).
+
 ## H. BLOEDRELIKWIE
 
 Het was Isaac (1123-1169), de tweede proost van de proosdij (latere abdij) die, op één van z'n reizen naar Rome,
