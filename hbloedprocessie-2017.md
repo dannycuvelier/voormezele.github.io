@@ -5,7 +5,7 @@ layout: page
 
 ## Verering H. Bloed
 De H. Bloed verering begint Pinksterhoogdag, 4 juni met een eucharistieviering om 9.15 uur.
-Ierdere dag om 16 uur is er zegening met de relikwie na de eucharistieviering.
+Iedere dag om 16 uur is er zegening met de relikwie na de eucharistieviering.
 
 
 ## H. Bloedprocessie 2017
