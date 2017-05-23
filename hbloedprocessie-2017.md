@@ -17,3 +17,14 @@ Ere-genodigde Mgr Lode Aerts, bisschop van Brugge.
 <div style="text-align: center; margin: 100px 0">
     <img src="./public/assets/affiche-2017.jpg" alt="Affiche bloedprocessie 2017" />
 </div>
+
+## Abdij-avond
+
+Op zaterdag 3 juni gaat de abdij-avond t.v.v. de H. Bloedprocessie door in O.C. Kasteelwal.
+Degustatie vanaf 19u; abdijkazen, abdijbier, abdijbrood.
+
+Inschrijven voor 31 mei 2017.
+
+<div style="text-align: center; margin: 100px 0">
+    <img src="./public/assets/abdijavond-2017.jpg" alt="Affiche abdij-avond 2017" />
+</div>
