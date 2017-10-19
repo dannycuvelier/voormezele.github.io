@@ -28,3 +28,13 @@ Inschrijven voor 31 mei 2017.
 <div style="text-align: center; margin: 100px 0">
     <img src="./public/assets/abdijavond-2017.jpg" alt="Affiche abdij-avond 2017" />
 </div>
+
+## Eetfestijn
+
+Op zondag 19 november 2017 gaat in O.C. Kasteelwal het 19de eetfestijn t.v.v de H. Bloedprocessie door.
+
+Deuren open vanaf 11u30, eten vanaf 12u30. Inschrijven voor 15 november.
+
+<div style="text-align: center; margin: 100px 0">
+    <img src="./public/assets/eetfestijn-2017.jpg" alt="Affiche eetfestijn 2017" />
+</div>
