@@ -1,2 +1,13 @@
 [
+    {
+        "title": "Abdijavond t.v.v de H. Bloedprocessie",
+        "description": "Op zaterdag 19 mei 2018 gaat in O.C. Kasteelwal de abdijavond door.",
+        "link": "./hbloedprocessie-2018.html#abdijavond"
+    },
+    {
+        "title": "H. Bloedprocessie 2018",
+        "description": "De Heilig Bloedprocessie van 2018 gaat door op 27 mei. Meer informatie over deze editie is beschikbaar op [H. Bloedprocessie 2018](./hbloedprocessie-2018.html).",
+        "link": "./hbloedprocessie-2018.html",
+        "image": "./public/assets/hbp-2018.jpg"
+    }
 ]

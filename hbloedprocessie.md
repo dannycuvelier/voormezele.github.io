@@ -3,10 +3,10 @@ title: Heilig Bloedprocessie
 layout: page
 ---
 
-## H. BLOEDPORECESSIE 2017
+## H. BLOEDPORECESSIE 2018
 
-De Heilig Bloedprocessie van 2017 gaat door op 11 juni.
-Meer informatie over deze editie is beschikbaar op [H. Bloedprocessie 2017](./hbloedprocessie-2017.html).
+De Heilig Bloedprocessie van 2018 gaat door op 27 mei.
+Meer informatie over deze editie is beschikbaar op [H. Bloedprocessie 2018](./hbloedprocessie-2018.html).
 
 ## H. BLOEDRELIKWIE
 
