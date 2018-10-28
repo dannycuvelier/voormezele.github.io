@@ -1,13 +1,7 @@
 [
     {
-        "title": "Abdij-avond t.v.v de H. Bloedprocessie",
-        "description": "Op zaterdag 19 mei 2018 gaat in O.C. Kasteelwal de abdij-avond door.",
-        "link": "./hbloedprocessie-2018.html#abdij-avond"
-    },
-    {
-        "title": "H. Bloedprocessie 2018",
-        "description": "De Heilig Bloedprocessie van 2018 gaat door op 27 mei. Meer informatie over deze editie is beschikbaar op [H. Bloedprocessie 2018](./hbloedprocessie-2018.html).",
-        "link": "./hbloedprocessie-2018.html",
-        "image": "./public/assets/hbp-2018.jpg"
+        "title": "Eetfestijn t.v.v de H. Bloedprocessie",
+        "description": "Op zondag 18 november 2018 gaat in O.C. Kasteelwal het 20e eetfestijn t.v.v de H. Bloedprocessie door.",
+        "link": "./hbloedprocessie-2019.html#eetfestijn"
     }
 ]
