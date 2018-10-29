@@ -5,12 +5,12 @@ layout: page
 
 ## H. Bloedprocessie 2019
 
-De H. Bloedprocessie gaat door op zondag 27 mei 2018 om 15 uur.
+De H. Bloedprocessie gaat door op zondag 16 juni 2018 om 15 uur.
 
 
 ## Eetfestijn
 
-Op zondat 18 november gaat het 20e eetfestijn t.v.v. de H. Bloedprocessie door in O.C. Kasteelwal.
+Op zondag 18 november gaat het 20e eetfestijn t.v.v. de H. Bloedprocessie door in O.C. Kasteelwal.
 
 Keuze uit ribbetjes of kippenbrochette.<br />
 Inschrijven voor 14 november 2018 bij:

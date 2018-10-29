@@ -5,7 +5,7 @@ layout: page
 
 ## H. BLOEDPORECESSIE 2018
 
-De Heilig Bloedprocessie van 2019 gaat door op 27 mei.
+De Heilig Bloedprocessie van 2019 gaat door op 16 juni.
 Meer informatie over deze editie is beschikbaar op [H. Bloedprocessie 2019](./hbloedprocessie-2019.html).
 
 ## H. BLOEDRELIKWIE
