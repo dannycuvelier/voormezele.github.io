@@ -40,5 +40,5 @@ emailadres: nele.desodt@hotmail.com
 
 
 <div style="text-align: center; margin: 100px 0">
-    <img src="./public/assets/affiche-kerststallen-2018" alt="Affiche kerstallen 2018" />
+    <img src="./public/assets/affiche-kerststallen-2018.jpg" alt="Affiche kerstallen 2018" />
 </div>
