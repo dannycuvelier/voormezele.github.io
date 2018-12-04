@@ -30,9 +30,10 @@ In de najaaragenda van De Krant van West-Vlaanderen staat het volgende over de V
 In scrabble is het woord goed voor 183 punten, maar de Kerststallententoonstelling is niet alleen in dit spel een succes. In Voormezele vindt dit jaar opnieuw de tweejaarlijkse Kerststallententoonstelling plaats. In de Onze-Lieve-Vrouwekerk kan je meer dan 500 Kerststallen bewonderen: grote, kleine, mini’s uit alle mogelijke landen, culturen en werelddelen. In het dorp zelf staan er langs de straten minstens een 30-tal Kerststallen en -taferelen opgesteld.
 
 
-Genieten van al deze pracht kan van zondag 9 tot en met maandag 17 december aanstaande. Op zondag van 10u30 tot 12u en van 14u tot 18 u. In de weekdagen van 14u tot 17 u.
+Genieten van al deze pracht kan van zondag 9 tot en met maandag 17 december aanstaande. <br />
+Op zondag van 10u30 tot 12u en van 14u tot 18 u. In de weekdagen van 14u tot 17 u.
 
 
-Alle info:
-Wilfried Desodt, Voormezele-Dorp 28, 8902 Voormezele-Ieper, 057/20.13.88
+Alle info:<br />
+Wilfried Desodt, Voormezele-Dorp 28, 8902 Voormezele-Ieper, 057/20.13.88<br />
 emailadres: nele.desodt@hotmail.com
