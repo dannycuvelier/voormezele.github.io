@@ -37,3 +37,8 @@ Op zondag van 10u30 tot 12u en van 14u tot 18 u. In de weekdagen van 14u tot 17 
 Alle info:<br />
 Wilfried Desodt, Voormezele-Dorp 28, 8902 Voormezele-Ieper, 057/20.13.88<br />
 emailadres: nele.desodt@hotmail.com
+
+
+<div style="text-align: center; margin: 100px 0">
+    <img src="./public/assets/affiche-kerststallen-2018" alt="Affiche kerstallen 2018" />
+</div>
