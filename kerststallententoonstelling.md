@@ -12,22 +12,25 @@ In de kerk staan er dan een 500-tal kerststallen tentoon, grote, kleine, mini's,
 Op het dorp zelf staan er langs de straten minstens een 30-tal kerststallen en -taferelen opgesteld.
 Er hangt een echte kerstsfeer op het dorp en rond de kerk
 
-## Tentoonstelling 2016
+## Tentoonstelling 2018
 
-Voor de 23ste keer gaat in de mooie romaanse O.L.Vrouwkerk van Voormezele de kerststallententoonstelling door van zondag 4 december tot en met maandag 12 december.
 
-Op zaterdagavond 3 december is er de officiële opening om 18u30. Pater Boni zal op zijn eigen wijze de expo openen. Het houtblazerskwintet “Toet Ensemble” zorgt voor de muzikale omlijsting. Vijf gedreven vrouwen die elk een houten blaasinstrument bespelen, vormen dit groepje. Met hun stemmige kerstklanken zullen zij de kerstexpo openen en de avond inzetten met instrumentale kerstliederen uit de oorlogstijd. Daarna volgt wat samenzang en horen we meer de traditionele liederen. Voor deze openingsvoorstelling bedraagt de inkom €3.
+Deze 24ste Kerststallenexpo wil bij het einde van "den grooten oorlog" e engelen naar voor brengen. Waren zij niet de vredesbrengers bij de Kerststalen en zongen zij niet : “Vrede op aarde aan de mensen van goede wil”.
+Engelen zijn zuivere geesten, bezitten een uitgebreide kennis, hebben een vrije wil en hebben grote macht om die wil uit te voeren. Zij loven en dienen God en staan de mensen bij. Vandaar het geloof dat iedereen een engelbewaarder heeft. 
+Engel komt van het Griekse woord “angelos” en betekent “bode”. Het is een bovennatuurlijk wezen dat God vertegenwoordigt en is vooral bekend bij de Joden, het Christendom en de Islam. Aanvankelijk voorgesteld als een naakte jongeling. In de 9de eeuw werd de engel algemeen als een gevleugelde figuur in lang gewaad naar voor gebracht. In de mystieke context zijn er veel godsdiensten die het over engelen “boodschappers” hebben. In onze eucharistie komen deze ook voor in de prefatie en in de “sanctus”. Ook onze engelbewaarders worden op veel prentjes voorgesteld.
+In de expo zullen de engelfiguren hier en daar centraal staan en de leerlingen van onze Vrije Basisschool “Het Wij-land” hebben hieraan mee gewerkt. Het is en blijft wel een Kerststallententoonstelling. 
+Ieder jaar zijn er nieuwe Kerststallen en worden er Kerstkunstwerken geëxposeerd, dit jaar o.a. van Rik Ryon. De werkgroep Kerstexpo zorgt steeds voor een mooie moderne opschik. Kunstvol en creatief. Men wil ook aan de bezoekers iets meegeven dit jaar “Vrede aan de mensen van goede wil”.
 
-De blikvanger voor deze expo bestaat uit 2 grote uiteenlopende kerstvoorstellingen: in het priesterkoor zullen levensgrootte kerstbeelden worden opgesteld  en kunstenares Sonja Mazereel uit Woesten zal op de kerkvloer een levensgroot kersttafereel met kleurkrijt aanbrengen.
-Daarnaast zijn er natuurlijk de vele kerststallen, kerst figuren, kribben,… van over de wereld te zien. Alles wordt kunstig geschikt volgens land en werelddeel. De kerstcollectie groeit nog ieder jaar door nieuwe aankopen.
 
-Wat heel klein begon in 1985, is thans uitgegroeid tot een gekend evenement in de streek. De kerstexpo toont ons hoe de verschillende volkeren uit de verschillende werelddelen het kerstgebeuren voorstellen en welke materialen ze gebruiken. Zeker de moeite om rustig van deze expo te genieten.
+Op zaterdag 8 december wordt een actieve kerstwandeling “En waar de sterre bleef stille staan” georganiseerd. Verschillende groepen trekken vanaf 14u30 om het half uur door de straten van Voormezele. Op verschillende locaties kunnen de deelnemers genieten van toneel, dans, zang, eigen creatieve inbreng, …  De slotactiviteit van iedere groep gebeurt in de kerk en gaat door als  officiële opening van de Kerststallenexpo. De expo is echter maar voor het publiek toegankelijk vanaf zondag 9 december!
 
-Het is dankzij een gedreven werkgroep dat we deze kerstexpo kunnen opzetten. Zo kan men in een echte kerstsfeer genieten van iets dat ons allen samenbrengt. De geboorte van Jezus is de belangrijkste gebeurtenis in de mensengeschiedenis want onze tijdrekening begint met deze geboorte.
 
-Ook op en rond het dorp worden er een 30-tal kerststallen opgesteld. De bewoners houden eraan te zorgen dat gans het dorp het kerstgebeuren uitstraalt.
+In de najaaragenda van De Krant van West-Vlaanderen staat het volgende over de Voormezeelse Kerstexpo:
+“Kunstig, zelfgemaakt, mini en levensgroot. In Voormezele kan je Kerststallen in alle mogelijke vormen bewonderen. Leve de Kerststal! “
+In scrabble is het woord goed voor 183 punten, maar de Kerststallententoonstelling is niet alleen in dit spel een succes. In Voormezele vindt dit jaar opnieuw de tweejaarlijkse Kerststallententoonstelling plaats. In de Onze-Lieve-Vrouwekerk kan je meer dan 500 Kerststallen bewonderen: grote, kleine, mini’s uit alle mogelijke landen, culturen en werelddelen. In het dorp zelf staan er langs de straten minstens een 30-tal Kerststallen en -taferelen opgesteld.
 
-De kerstexpo is te bezichtigen in de weekdagen van 14u tot 17u en op zondagen (4 en 11 december) van 10u30 tot 12u – van 14u tot 18u. Groepen kunnen reserveren en krijgen een woordje uitleg bij het bezichtigen. Toegangsprijs voor de expo: €1/ kinderen jonger dan 12jaar: gratis.
+
+Genieten van al deze pracht kan van zondag 9 tot en met maandag 17 december aanstaande. Op zondag van 10u30 tot 12u en van 14u tot 18 u. In de weekdagen van 14u tot 17 u.
 
 
 Alle info:
