@@ -9,11 +9,21 @@ subtext: Een verborgen parel van de Westhoek en een dorp dat veel te bieden heef
 <div class="announcements">
     {% for announcement in site.data.announcements %}
     <div class="announcement">
-        <h4><a href="{{ site.url }}{{ announcement.link }}">{{ announcement.title }}</a></h4>
+        {% assign urlStart = announcement.link | slice: 0, 4 %}
+
+        {% if urlStart == 'http' %}
+            {% assign fullLink = announcement.link %}
+        {% endif %}
+
+        {% if urlStart != 'http' %}
+            {% assign fullLink = site.url | append: announcement.link %}
+        {% endif %}
+
+        <h4><a href="{{ fullLink }}" rel="noopener">{{ announcement.title }}</a></h4>
         <p>{{ announcement.description|markdownify }}</p>
 
         {% if announcement.image %}
-        <a href="{{ site.url }}{{ announcement.link }}">
+        <a href="{{ fullLink }}" rel="noopener">
             <img src="{{ announcement.image }}" alt="image {{ announcement.title }}" />
         </a>
         {% endif %}
